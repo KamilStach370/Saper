@@ -1,5 +1,5 @@
 # Saper
-This is the game called Saper created in JavaScript with OOP.
+This is the game called Saper. Project was realised druring a course "Object Oriented JavaScript Programming".
 
 Game works only in Google Chrome.
 
